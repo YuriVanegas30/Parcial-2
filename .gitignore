@@ -1,0 +1,29 @@
+# Archivos binarios y ejecutables
+
+inventario
+*.exe
+*.out
+*.o
+*.obj
+
+# Archivos de respaldo / temporales
+
+*~
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Archivos del sistema o editor
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos de compilación
+
+build/
+bin/
+debug/
+release/
